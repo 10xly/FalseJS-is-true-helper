@@ -1,6 +1,6 @@
 {
   "name": "@falsejs/is-true-helper",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "check if a value is true",
   "main": "helper.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "url": "git+https://github.com/tj-commits/falsejs-is-true-helper"
   },
   "dependencies": {
-    "@is-(unknown)/is-true": "^1.0.0"
+    "is-precisely-true": "^1.0.1"
   }
 }
