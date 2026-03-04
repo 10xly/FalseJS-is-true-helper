@@ -22,5 +22,9 @@
   },
   "dependencies": {
     "is-precisely-true": "^1.0.1"
+  },
+  "devDependencies": {
+    "@10xly/eslint-config": "*",
+    "eslint": "^9.39.3"
   }
 }
